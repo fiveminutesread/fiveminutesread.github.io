@@ -1,7 +1,7 @@
 # ids used below are not valid. Replace with valid ones
 # locale = "en_US"
  ga_analytics = "G-G4C5VQPD1F" # google analytics ID e.g UA-116386578-1
-# ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
+ ga_verify = "google-site-verification=FkS8GTYWjBbr0gv15N-7RbMLyglKRq8kCEkZeXJNtlM" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
 # twitter = "" # twitter handle e.g @weru
 # mainSections = ["blog", "docs"] see https://gohugo.io/functions/where/#mainsections
 # uncomment the line below will disable darkmode by default.
