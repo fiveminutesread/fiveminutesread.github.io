@@ -5,5 +5,7 @@ canonifyurls = true
 paginate = 15
 author = 'Hatim'
 theme = 'newsroom'
+[sitemap]
+    changeFreq = 'daily'
 
 

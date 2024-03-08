@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Five Minunte Reads</title>
-    <link>https://fiveminread.com/tags/</link>
+    <link>https://fiveminutesread.github.io/tags/</link>
     <description>Recent content in Tags on Five Minunte Reads</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Mar 2024 18:28:28 +0000</lastBuildDate>
-    <atom:link href="https://fiveminread.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Mar 2024 19:57:51 +0000</lastBuildDate>
+    <atom:link href="https://fiveminutesread.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BBC</title>
-      <link>https://fiveminread.com/tags/bbc/</link>
-      <pubDate>Wed, 06 Mar 2024 18:28:28 +0000</pubDate>
-      <guid>https://fiveminread.com/tags/bbc/</guid>
+      <link>https://fiveminutesread.github.io/tags/bbc/</link>
+      <pubDate>Thu, 07 Mar 2024 19:57:51 +0000</pubDate>
+      <guid>https://fiveminutesread.github.io/tags/bbc/</guid>
       <description></description>
     </item>
     <item>
       <title>Entertainment</title>
-      <link>https://fiveminread.com/tags/entertainment/</link>
+      <link>https://fiveminutesread.github.io/tags/entertainment/</link>
       <pubDate>Mon, 04 Mar 2024 23:08:33 +0000</pubDate>
-      <guid>https://fiveminread.com/tags/entertainment/</guid>
+      <guid>https://fiveminutesread.github.io/tags/entertainment/</guid>
       <description></description>
     </item>
   </channel>
