@@ -1,0 +1,9 @@
+baseURL = 'https://fiveminread.com/'
+languageCode = 'en-us'
+title = 'Five Minunte Reads'
+canonifyurls = true
+paginate = 15
+author = 'Hatim'
+theme = 'newsroom'
+
+
