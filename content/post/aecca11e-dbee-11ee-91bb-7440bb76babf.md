@@ -1,14 +1,14 @@
 +++
-title = 'I earn £22,000. The Budget will leave me £188 better off'
+title = ""
 date = 'Wed, 06 Mar 2024 18:19:53 GMT'
-description = 'The BBC spoke to people with a range of earnings and household set-ups about how the Budget affects them.'
+description = "The BBC spoke to people with a range of earnings and household set-ups about how the Budget affects them."
 image = 'I_earn_22_000_The_Budget_will_leave_me_188_better_off__2115038449.png'
 keywrods =  []
 categories = 'World'
-tags = 'BBC'
+tags = ['BBC']
 +++
 
-# 'I earn £22,000. The Budget will leave me £188 better off'
+# 
 
 Joe Makin, 23, earns £22,000 a year working in admin and says almost two-thirds of his take-home pay is eaten up by rent and bills.
 The 2p National Insurance (NI) cut announced by the chancellor means he will keep a further £188 of his salary a year.
