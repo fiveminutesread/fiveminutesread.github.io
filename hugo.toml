@@ -1,6 +1,6 @@
 baseURL = 'https://fiveminutesread.github.io/'
 languageCode = 'en-us'
-title = 'Five Minunte Reads'
+title = 'Five Minutes Reads'
 canonifyurls = true
 paginate = 15
 author = 'Hatim'
