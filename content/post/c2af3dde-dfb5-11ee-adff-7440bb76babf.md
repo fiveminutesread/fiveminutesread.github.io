@@ -5,7 +5,7 @@ description = "Oppenheimer wins big at the 96th Oscars"
 image = 'Oscars_Newscast_Special__2816473508.png'
 keywrods =  []
 categories = 'Entertainment'
-tags = ['BBC']
+tags = ['BBC', "oscars"]
 +++
 
 # Oscars Newscast Special!

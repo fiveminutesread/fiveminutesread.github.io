@@ -5,7 +5,7 @@ description = 'My main takeaway from Wednesdays Budget is that many are still go
 image = 'Dharshini_David_An_election_giveaway_but_taxes_will_still_rise__1933217597.png'
 keywrods =  []
 categories = 'Politics'
-tags = 'BBC'
+tags = ['BBC']
 +++
 
 # Dharshini David: An election giveaway but taxes will still rise

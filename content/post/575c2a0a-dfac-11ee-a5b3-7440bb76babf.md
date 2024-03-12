@@ -5,7 +5,7 @@ description = "A naked presenter, a clapping dog and a real-life Ken doll kept s
 image = 'Seven_of_the_best_moments_from_the_Oscars__705658274.png'
 keywrods =  []
 categories = 'Entertainment'
-tags = ['BBC']
+tags = ['BBC', "oscars", "israel"]
 +++
 
 # Seven of the best moments from the Oscars

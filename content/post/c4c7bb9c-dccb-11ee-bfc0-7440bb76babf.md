@@ -5,7 +5,7 @@ description = 'Before the Oscars on Sunday, we ask BBC Sports Six Nations team w
 image = 'The_Rock_or_Jaws_BBC_Six_Nations_team_tackle_the_Oscars__2109549445.png'
 keywrods =  []
 categories = 'Sports'
-tags = ['BBC']
+tags = ['BBC', "oscars"]
 +++
 
 # The Rock or Jaws? BBC Six Nations team tackle the Oscars

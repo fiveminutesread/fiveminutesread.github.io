@@ -5,7 +5,7 @@ description = "Attention focuses on a flashpoint holy site where violence has er
 image = 'Gaza_war_fuels_Jerusalem_fears_as_Ramadan_to_begin__3034473590.png'
 keywrods =  []
 categories = ''
-tags = ['BBC']
+tags = ['BBC', "gaza", "israel"]
 +++
 
 # Gaza war fuels Jerusalem fears as Ramadan to begin

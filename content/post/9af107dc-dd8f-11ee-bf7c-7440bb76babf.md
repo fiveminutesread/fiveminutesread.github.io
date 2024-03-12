@@ -5,7 +5,7 @@ description = "From slaps to snubs: A lookback at iconic moments from Oscar hist
 image = 'From_slaps_to_snubs_13_Oscar_Moments__3045329484.png'
 keywrods =  []
 categories = 'Entertainment'
-tags = ['']
+tags = ['BBC']
 +++
 
 # From slaps to snubs: 13 Oscar Moments

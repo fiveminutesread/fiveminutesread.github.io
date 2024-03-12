@@ -5,7 +5,7 @@ description = "The US military says at least 28 uncrewed aerial vehicles (UAVs) 
 image = 'US_UK_and_French_destroy_dozens_of_Houthi_drones__2984712514.png'
 keywrods =  []
 categories = 'World'
-tags = ['BBC']
+tags = ['BBC', "gaza", "israel"]
 +++
 
 # US, UK and French destroy dozens of Houthi drones

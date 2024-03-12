@@ -5,7 +5,7 @@ description = "Mandarin is being taught to Tibetans as their main language, thre
 image = 'How_China_s_boarding_schools_are_silencing_Tibet_s_language__1212717177.png'
 keywrods =  []
 categories = 'World'
-tags = ['BBC']
+tags = ['BBC', "india"]
 +++
 
 # How China's boarding schools are silencing Tibet’s language

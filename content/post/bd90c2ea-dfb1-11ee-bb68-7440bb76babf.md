@@ -5,7 +5,7 @@ description = "With US military support stalled in Congress, European leaders ar
 image = 'Is_Europe_doing_enough_to_help_Ukraine__2955449988.png'
 keywrods =  []
 categories = 'World'
-tags = ['BBC']
+tags = ['BBC', "ukraine", "russia"]
 +++
 
 # Is Europe doing enough to help Ukraine?

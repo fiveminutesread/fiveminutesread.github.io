@@ -5,7 +5,7 @@ description = "Several politics stories make Sunday's front pages, including Bor
 image = 'The_Papers_Gove_s_extremism_warning_and_Johnson_in_trip_to_Venezuela__219124404.png'
 keywrods =  []
 categories = 'World'
-tags = ['BBC']
+tags = ['BBC', "russia"]
 +++
 
 # The Papers:  Gove's extremism warning and Johnson in trip to Venezuela

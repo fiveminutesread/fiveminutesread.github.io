@@ -5,7 +5,7 @@ description = "Briton Emma Raducanu reaches round three at Indian Wells after op
 image = 'Raducanu_moves_on_to_round_three_at_Indian_Wells__1504887113.png'
 keywrods =  []
 categories = 'Sports'
-tags = ['BBC']
+tags = ['BBC', "india"]
 +++
 
 # Raducanu moves on to round three at Indian Wells

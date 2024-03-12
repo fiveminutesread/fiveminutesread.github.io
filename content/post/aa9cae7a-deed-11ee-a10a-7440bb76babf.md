@@ -5,7 +5,7 @@ description = "Fifty survivors and relatives of those killed in London, Manchest
 image = 'Attack_victims_hit_out_at_extremism_in_open_letter__379109247.png'
 keywrods =  []
 categories = 'World'
-tags = ['BBC']
+tags = ['BBC', "israel"]
 +++
 
 # Attack victims hit out at extremism in open letter

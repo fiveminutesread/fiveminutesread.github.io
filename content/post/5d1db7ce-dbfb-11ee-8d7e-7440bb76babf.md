@@ -5,7 +5,7 @@ description = 'England - as a team, and as individuals - have lots of questions 
 image = 'Why_England_have_so_much_to_prove_in_foothills_of_Himalayas__1408719778.png'
 keywrods =  []
 categories = 'World'
-tags = 'BBC'
+tags = ['BBC', "india"]
 +++
 
 # Why England have so much to prove in foothills of Himalayas

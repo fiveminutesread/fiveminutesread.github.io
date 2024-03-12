@@ -5,7 +5,7 @@ description = "As Hollywood's finest get ready for the big night, we bring you t
 image = 'Stars_gather_for_Oscars_after_huge_year_for_cinema__4025468888.png'
 keywrods =  []
 categories = 'Entertainment'
-tags = ['BBC']
+tags = ['BBC', "oscars", "india", "oil"]
 +++
 
 # Stars gather for Oscars after huge year for cinema
