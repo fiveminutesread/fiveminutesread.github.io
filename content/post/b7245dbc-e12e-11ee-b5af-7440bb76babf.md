@@ -5,7 +5,7 @@ description = "The new law is expected to clear the majority of victims in Engla
 image = 'Post_Office_scandal_victims_convictions_to_be_quashed__1074376320.png'
 keywrods =  []
 categories = 'World'
-tags = ['BBC', "business", "Scotland"]
+tags = ['BBC', "business", "Scotland", "scandal"]
 +++
 
 # Post Office scandal victims convictions to be quashed
