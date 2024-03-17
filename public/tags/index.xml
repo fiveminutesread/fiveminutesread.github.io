@@ -1,25 +1,144 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Five Minunte Reads</title>
-    <link>https://fiveminutesread.github.io/tags/</link>
-    <description>Recent content in Tags on Five Minunte Reads</description>
+    <title>Tags on Five Minutes Reads</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Five Minutes Reads</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Mar 2024 19:57:51 +0000</lastBuildDate>
-    <atom:link href="https://fiveminutesread.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 12:43:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BBC</title>
-      <link>https://fiveminutesread.github.io/tags/bbc/</link>
-      <pubDate>Thu, 07 Mar 2024 19:57:51 +0000</pubDate>
-      <guid>https://fiveminutesread.github.io/tags/bbc/</guid>
+      <link>http://localhost:1313/tags/bbc/</link>
+      <pubDate>Sun, 17 Mar 2024 12:43:06 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bbc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cancer</title>
+      <link>http://localhost:1313/tags/cancer/</link>
+      <pubDate>Sun, 17 Mar 2024 12:41:27 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cancer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scotland</title>
+      <link>http://localhost:1313/tags/scotland/</link>
+      <pubDate>Sun, 17 Mar 2024 12:12:38 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scotland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>India</title>
+      <link>http://localhost:1313/tags/india/</link>
+      <pubDate>Sun, 17 Mar 2024 10:50:28 +0000</pubDate>
+      <guid>http://localhost:1313/tags/india/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oil</title>
+      <link>http://localhost:1313/tags/oil/</link>
+      <pubDate>Sun, 17 Mar 2024 10:36:43 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Russia</title>
+      <link>http://localhost:1313/tags/russia/</link>
+      <pubDate>Sun, 17 Mar 2024 10:36:43 +0000</pubDate>
+      <guid>http://localhost:1313/tags/russia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ukraine</title>
+      <link>http://localhost:1313/tags/ukraine/</link>
+      <pubDate>Sun, 17 Mar 2024 10:36:43 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ukraine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>http://localhost:1313/tags/business/</link>
+      <pubDate>Sun, 17 Mar 2024 09:32:42 +0000</pubDate>
+      <guid>http://localhost:1313/tags/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scandal</title>
+      <link>http://localhost:1313/tags/scandal/</link>
+      <pubDate>Sun, 17 Mar 2024 02:11:20 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scandal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Africa</title>
+      <link>http://localhost:1313/tags/africa/</link>
+      <pubDate>Sun, 17 Mar 2024 01:23:34 +0000</pubDate>
+      <guid>http://localhost:1313/tags/africa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/tags/finance/</link>
+      <pubDate>Sun, 17 Mar 2024 01:23:34 +0000</pubDate>
+      <guid>http://localhost:1313/tags/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gaza</title>
+      <link>http://localhost:1313/tags/gaza/</link>
+      <pubDate>Sun, 17 Mar 2024 00:51:27 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gaza/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Israel</title>
+      <link>http://localhost:1313/tags/israel/</link>
+      <pubDate>Sun, 17 Mar 2024 00:51:27 +0000</pubDate>
+      <guid>http://localhost:1313/tags/israel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Japan</title>
+      <link>http://localhost:1313/tags/japan/</link>
+      <pubDate>Fri, 15 Mar 2024 23:45:46 +0000</pubDate>
+      <guid>http://localhost:1313/tags/japan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Korea</title>
+      <link>http://localhost:1313/tags/korea/</link>
+      <pubDate>Fri, 15 Mar 2024 09:47:28 +0000</pubDate>
+      <guid>http://localhost:1313/tags/korea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oscar</title>
+      <link>http://localhost:1313/tags/oscar/</link>
+      <pubDate>Thu, 14 Mar 2024 18:32:04 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oscar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>China</title>
+      <link>http://localhost:1313/tags/china/</link>
+      <pubDate>Wed, 13 Mar 2024 00:06:25 +0000</pubDate>
+      <guid>http://localhost:1313/tags/china/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oscars</title>
+      <link>http://localhost:1313/tags/oscars/</link>
+      <pubDate>Mon, 11 Mar 2024 04:17:20 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oscars/</guid>
       <description></description>
     </item>
     <item>
       <title>Entertainment</title>
-      <link>https://fiveminutesread.github.io/tags/entertainment/</link>
+      <link>http://localhost:1313/tags/entertainment/</link>
       <pubDate>Mon, 04 Mar 2024 23:08:33 +0000</pubDate>
-      <guid>https://fiveminutesread.github.io/tags/entertainment/</guid>
+      <guid>http://localhost:1313/tags/entertainment/</guid>
       <description></description>
     </item>
   </channel>

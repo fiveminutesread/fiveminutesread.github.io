@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oscar on Five Minutes Reads</title>
+    <link>http://localhost:1313/tags/oscar/</link>
+    <description>Recent content in Oscar on Five Minutes Reads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2024 18:32:04 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/oscar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly quiz: Which exclusive Oscars club did Emma Stone join?</title>
+      <link>http://localhost:1313/post/60c3167a-e2d2-11ee-a93b-7440bb76babf/</link>
+      <pubDate>Thu, 14 Mar 2024 18:32:04 +0000</pubDate>
+      <guid>http://localhost:1313/post/60c3167a-e2d2-11ee-a93b-7440bb76babf/</guid>
+      <description>Weekly quiz: Which exclusive Oscars club did Emma Stone join? The weekly news quiz. How closely have you been paying attention to what#39;s been going on in the world over the past seven days? Some mobile users may experience difficulties. If you cannot see the quiz, try this link or have a go at something from the archives.&#xA;Read More</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Africa on Five Minutes Reads</title>
+    <link>http://localhost:1313/tags/africa/</link>
+    <description>Recent content in Africa on Five Minutes Reads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2024 01:23:34 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/africa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Idris Elba &#39;dreams big&#39; with West African eco-city plan</title>
+      <link>http://localhost:1313/post/1c268de8-e468-11ee-94af-7440bb76babf/</link>
+      <pubDate>Sun, 17 Mar 2024 01:23:34 +0000</pubDate>
+      <guid>http://localhost:1313/post/1c268de8-e468-11ee-94af-7440bb76babf/</guid>
+      <description>Idris Elba &amp;lsquo;dreams big&amp;rsquo; with West African eco-city plan Hollywood actor Idris Elba has a big dream for Sierra Leone. He wants to regenerate a beautiful island off its coast and turn it into an eco-friendly city. The project also intends to bring wind-powered renewable electricity for the first time to the West African nation. Elba was brought into the project by his childhood friend Siaka Stevens, the grandson of a former Sierra Leonean president of the same name.</description>
+    </item>
+  </channel>
+</rss>

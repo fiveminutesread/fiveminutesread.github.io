@@ -1,46 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Politics on Five Minunte Reads</title>
-    <link>https://fiveminutesread.github.io/categories/politics/</link>
-    <description>Recent content in Politics on Five Minunte Reads</description>
+    <title>Politics on Five Minutes Reads</title>
+    <link>http://localhost:1313/categories/politics/</link>
+    <description>Recent content in Politics on Five Minutes Reads</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Mar 2024 18:01:13 +0000</lastBuildDate>
-    <atom:link href="https://fiveminutesread.github.io/categories/politics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 12:30:57 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/politics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ed Davey calls for &#39;once-in-generation&#39; election</title>
+      <link>http://localhost:1313/post/b0803978-e461-11ee-aa1e-7440bb76babf/</link>
+      <pubDate>Sun, 17 Mar 2024 12:30:57 +0000</pubDate>
+      <guid>http://localhost:1313/post/b0803978-e461-11ee-aa1e-7440bb76babf/</guid>
+      <description>Ed Davey calls for &amp;lsquo;once-in-generation&amp;rsquo; election The party leader focused on the NHS in his speech in York on Sunday setting out reforms so people can see a GP, dentist or pharmacist. No date has been set for the election. It has to be held by January next year with Prime Minister Rishi Sunak ruling out holding an election on 2 May. The Liberal Democrats won 11 seats at the last general election in 2019.</description>
+    </item>
+    <item>
+      <title>Councils told to consider residents&#39; views on LTNs</title>
+      <link>http://localhost:1313/post/ba46be60-e460-11ee-907c-7440bb76babf/</link>
+      <pubDate>Sun, 17 Mar 2024 09:32:42 +0000</pubDate>
+      <guid>http://localhost:1313/post/ba46be60-e460-11ee-907c-7440bb76babf/</guid>
+      <description>Councils told to consider residents&amp;rsquo; views on LTNs Councils will have to consider local residents&amp;rsquo; views before introducing new low traffic neighbourhoods (LTNs)LTNs restrict vehicles from using some roads while prioritising other users such as cyclists and pedestrians. Labour accused ministers of trying todictate to local communities how they use their streets. draft statutory guidance is due to come into force this summer. Local authorities issue an average of 36,459 Penalty Charge Notices per scheme.</description>
+    </item>
+    <item>
+      <title>Abbott hits out at racism in politics after donor row</title>
+      <link>http://localhost:1313/post/6456bb26-e21d-11ee-8e8b-7440bb76babf/</link>
+      <pubDate>Thu, 14 Mar 2024 10:41:28 +0000</pubDate>
+      <guid>http://localhost:1313/post/6456bb26-e21d-11ee-8e8b-7440bb76babf/</guid>
+      <description>Abbott hits out at racism in politics after donor row Frank Hester is reported to have said the MP made him want to hate all black women. Ms Abbott said she had been #34;upset#34;&amp;quot; by the comments. But she also criticised Labour, insisting racism in politics is not just a matter for any one party. Ms Abbott unsuccessfully tried more than 40 times to get the Speaker&amp;rsquo;s attention.&#xA;A spokesperson for the Speaker, Sir Lindsay Hoyle, said there was not enough time to call all MPs.</description>
+    </item>
+    <item>
+      <title>Ex-home secretaries warn against politicising extremism</title>
+      <link>http://localhost:1313/post/9b8a9c04-dfb4-11ee-85a8-7440bb76babf/</link>
+      <pubDate>Mon, 11 Mar 2024 09:58:27 +0000</pubDate>
+      <guid>http://localhost:1313/post/9b8a9c04-dfb4-11ee-85a8-7440bb76babf/</guid>
+      <description>Ex-home secretaries warn against politicising extremism Priti Patel, Sajid Javid and Amber Rudd said cross-party support is needed to defeat extremism. It comes as the government prepares to set out a new definition of extremism. The open letter was published in the Guardian on Monday. It was signed by the three former Conservative home secretaries.&#xA;The three ex-home secretaries signed an open letter along with half a dozen senior counter-terror and extremism experts, urging Conservatives and Labour to work together on the issue.</description>
+    </item>
+    <item>
+      <title>Labour won&#39;t turn things around immediately, Reeves says</title>
+      <link>http://localhost:1313/post/73f1d75a-dedf-11ee-880d-7440bb76babf/</link>
+      <pubDate>Sun, 10 Mar 2024 11:55:48 +0000</pubDate>
+      <guid>http://localhost:1313/post/73f1d75a-dedf-11ee-880d-7440bb76babf/</guid>
+      <description>Labour won&amp;rsquo;t turn things around immediately, Reeves says Shadow chancellor says Labour would inherit the worst economy since World War Two. She said she would be identifying ways to pay for existing pledges on the NHS and schools. The interview came a few days after Chancellor Jeremy Hunt set out the government&amp;rsquo;s tax and spending plans in his Budget. Labour had previously said it would use the £2bn it expected to raise from these changes to pay for improvements in the NHS and breakfast clubs in schools.</description>
+    </item>
+    <item>
+      <title>20mph will be seen as right says quitting minister</title>
+      <link>http://localhost:1313/post/805e37c6-deef-11ee-bd73-7440bb76babf/</link>
+      <pubDate>Sun, 10 Mar 2024 11:40:31 +0000</pubDate>
+      <guid>http://localhost:1313/post/805e37c6-deef-11ee-bd73-7440bb76babf/</guid>
+      <description>20mph will be seen as right says quitting minister Welsh transport minister Lee Waters says he feels &amp;lsquo;battered&amp;rsquo; by the job. He will leave when either Vaughan Gething or Jeremy Miles is announced as Welsh Labour leader next Sunday. He said bringing in 20mph was never going to be perfect but it will be seen as &amp;ldquo;the right thing to do. The 20mph limit was brought in last September as the default for built-up areas on restricted roads.</description>
+    </item>
     <item>
       <title>Labour and Tories accused of silence over cuts</title>
-      <link>https://fiveminutesread.github.io/post/9a24902a-dcbe-11ee-be72-7440bb76babf/</link>
+      <link>http://localhost:1313/post/9a24902a-dcbe-11ee-be72-7440bb76babf/</link>
       <pubDate>Thu, 07 Mar 2024 18:01:13 +0000</pubDate>
-      <guid>https://fiveminutesread.github.io/post/9a24902a-dcbe-11ee-be72-7440bb76babf/</guid>
+      <guid>http://localhost:1313/post/9a24902a-dcbe-11ee-be72-7440bb76babf/</guid>
       <description>Labour and Tories accused of silence over cuts Tough decisions would need to be made following the next election, the Institute for Fiscal Studies said. Labour says it will have to make future savings to public spending to fund some of its policies if it wins power. The state of the economy is under intense focus in the run-up to a general election that must be called before next January. Prime Minister Rishi Sunak refused to be drawn on the date of the general election.</description>
     </item>
     <item>
       <title>Labour and Tories accused of silence over cuts</title>
-      <link>https://fiveminutesread.github.io/post/e01b2eea-dcc3-11ee-8569-7440bb76babf/</link>
+      <link>http://localhost:1313/post/e01b2eea-dcc3-11ee-8569-7440bb76babf/</link>
       <pubDate>Thu, 07 Mar 2024 18:01:13 +0000</pubDate>
-      <guid>https://fiveminutesread.github.io/post/e01b2eea-dcc3-11ee-8569-7440bb76babf/</guid>
+      <guid>http://localhost:1313/post/e01b2eea-dcc3-11ee-8569-7440bb76babf/</guid>
       <description>Labour and Tories accused of silence over cuts Tough decisions would need to be made following the next election, the Institute for Fiscal Studies said. Labour says it will have to make future savings to public spending to fund some of its policies if it wins power. The state of the economy is under intense focus in the run-up to a general election that must be called before next January. Prime Minister Rishi Sunak refused to be drawn on the date of the general election.</description>
     </item>
     <item>
       <title>Dharshini David: An election giveaway but taxes will still rise</title>
-      <link>https://fiveminutesread.github.io/post/6df9ba2a-dbec-11ee-bcc8-7440bb76babf/</link>
+      <link>http://localhost:1313/post/6df9ba2a-dbec-11ee-bcc8-7440bb76babf/</link>
       <pubDate>Wed, 06 Mar 2024 18:23:05 +0000</pubDate>
-      <guid>https://fiveminutesread.github.io/post/6df9ba2a-dbec-11ee-bcc8-7440bb76babf/</guid>
+      <guid>http://localhost:1313/post/6df9ba2a-dbec-11ee-bcc8-7440bb76babf/</guid>
       <description>Dharshini David: An election giveaway but taxes will still rise Chancellor Jeremy Hunt was on his feet for one hour and five minutes. His Budget contained a relatively modest amount of treats. Many are still going to see their tax bills rise. But £11bn will be going on that National Insurance cut - a tax giveaway that will be a relief to workers.&#xA;Almost half will come from changing the treatment of &amp;ldquo;non-doms.</description>
     </item>
     <item>
       <title>Election poll tracker: How do the parties compare?</title>
-      <link>https://fiveminutesread.github.io/post/a18cb32a-dbf5-11ee-a984-7440bb76babf/</link>
+      <link>http://localhost:1313/post/a18cb32a-dbf5-11ee-a984-7440bb76babf/</link>
       <pubDate>Wed, 06 Mar 2024 13:48:38 +0000</pubDate>
-      <guid>https://fiveminutesread.github.io/post/a18cb32a-dbf5-11ee-a984-7440bb76babf/</guid>
+      <guid>http://localhost:1313/post/a18cb32a-dbf5-11ee-a984-7440bb76babf/</guid>
       <description>Election poll tracker: How do the parties compare? Conservative MPs will be hoping that the tax cuts announced in the Budget will please voters. Chancellor Jeremy Hunt cut the main rate of National Insurance for employees from 12% to 10%. Now he&amp;rsquo;s gone further with an additional cut to 8% and he also cut the rate for self-employed people. The latest poll by Ipsos MORI has the Tories down to 20 per cent.</description>
     </item>
     <item>
       <title>Top court says states cant ban Trump from ballots</title>
-      <link>https://fiveminutesread.github.io/post/c981f4fa-daa9-11ee-9f6f-7440bb76babf/</link>
+      <link>http://localhost:1313/post/c981f4fa-daa9-11ee-9f6f-7440bb76babf/</link>
       <pubDate>Mon, 04 Mar 2024 19:46:48 +0000</pubDate>
-      <guid>https://fiveminutesread.github.io/post/c981f4fa-daa9-11ee-9f6f-7440bb76babf/</guid>
+      <guid>http://localhost:1313/post/c981f4fa-daa9-11ee-9f6f-7440bb76babf/</guid>
       <description>Top court says states can&amp;rsquo;t ban Trump from ballots Colorado had barred Mr Trump from its Republican primary, arguing he incited the 2021 Capitol riot. The court ruled that only Congress, rather than the states, has that power. Mr Trump is the front-runner for the Republican nomination and looks likely to face a rematch with Democratic President Joe Biden in November. Mr Trump said the decision was &amp;lsquo;very well crafted&amp;rsquo; and will bring the country together.</description>
     </item>
   </channel>

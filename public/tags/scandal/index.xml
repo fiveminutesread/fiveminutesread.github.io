@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scandal on Five Minutes Reads</title>
+    <link>http://localhost:1313/tags/scandal/</link>
+    <description>Recent content in Scandal on Five Minutes Reads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2024 02:11:20 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scandal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How much trouble is Boeing in?</title>
+      <link>http://localhost:1313/post/c56b879a-e45f-11ee-9671-7440bb76babf/</link>
+      <pubDate>Sun, 17 Mar 2024 02:11:20 +0000</pubDate>
+      <guid>http://localhost:1313/post/c56b879a-e45f-11ee-9671-7440bb76babf/</guid>
+      <description>How much trouble is Boeing in? The head of the Allied Pilots Association, the pilots union for American Airlines, insists he would never board an aircraft if it were not safe. Captain Dennis Tajer describes flying a Boeing 737 Max. 34;It#39;s as if I#38;m watching a troubled child, says Tajer. Every day brings more bad headlines for the aerospace giant.&#xA;A disused emergency exit door blew off a new Boeing 737 Max in January.</description>
+    </item>
+  </channel>
+</rss>

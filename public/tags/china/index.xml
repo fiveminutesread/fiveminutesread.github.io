@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>China on Five Minutes Reads</title>
+    <link>http://localhost:1313/tags/china/</link>
+    <description>Recent content in China on Five Minutes Reads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Mar 2024 00:06:25 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/china/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why firms are bringing their manufacturing back home</title>
+      <link>http://localhost:1313/post/56b66b1a-e12d-11ee-b95d-7440bb76babf/</link>
+      <pubDate>Wed, 13 Mar 2024 00:06:25 +0000</pubDate>
+      <guid>http://localhost:1313/post/56b66b1a-e12d-11ee-b95d-7440bb76babf/</guid>
+      <description>Why firms are bringing their manufacturing back home Reshoring is when a company decides to stop getting its manufacturing done overseas, such as in China, and instead returns the work to its home country. Chris Ball and Ian Whateley are the bosses of Shropshire-based Advanced Chemical Etching (Ace) Ace makes precision metal components for customers in the aerospace, automotive, electronics and telecoms sectors. More than half of UK manufacturers are now reshoring, according to a study.</description>
+    </item>
+  </channel>
+</rss>

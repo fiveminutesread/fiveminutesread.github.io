@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automobile on Five Minutes Reads</title>
+    <link>http://localhost:1313/categories/automobile/</link>
+    <description>Recent content in Automobile on Five Minutes Reads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2024 12:44:54 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/automobile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>McDonald&#39;s resolves IT issue for customers in UK</title>
+      <link>http://localhost:1313/post/40a0b5d6-e2ce-11ee-b9f7-7440bb76babf/</link>
+      <pubDate>Fri, 15 Mar 2024 12:44:54 +0000</pubDate>
+      <guid>http://localhost:1313/post/40a0b5d6-e2ce-11ee-b9f7-7440bb76babf/</guid>
+      <description>McDonald&amp;rsquo;s resolves IT issue for customers in UK Customers in Japan, Australia, New Zealand, Germany and Austria were also unable to order food owing to a series of IT issues. The issue has now been resolved in the UK and Ireland, the company said in a statement. It is unclear whether the problem has been resolved elsewhere. Downdetector, a system used to monitor IT problems in businesses, noted a spike in issues with the McDonald#39;s UK app from around 05:00 GMT on Friday.</description>
+    </item>
+  </channel>
+</rss>
