@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trump on Five Minutes Reads</title>
+    <link>http://localhost:1313/tags/trump/</link>
+    <description>Recent content in Trump on Five Minutes Reads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 00:05:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/trump/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is TikTok really a danger to the West?</title>
+      <link>http://localhost:1313/post/f15885cc-e5ec-11ee-b97b-7440bb76babf/</link>
+      <pubDate>Tue, 19 Mar 2024 00:05:59 +0000</pubDate>
+      <guid>http://localhost:1313/post/f15885cc-e5ec-11ee-b97b-7440bb76babf/</guid>
+      <description>Is TikTok really a danger to the West? TikTok has been accused of harvesting huge amounts of data. The app collects details such as location, what specific device is being used and which other apps are on it. China has attacked a bill going through US Congress that could ultimately see TikTok banned in the States. TikTok is owned by Beijing-based tech giant ByteDance, making it unique as a non-American mainstream app.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health on Five Minutes Reads</title>
+    <link>http://localhost:1313/categories/health/</link>
+    <description>Recent content in Health on Five Minutes Reads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2024 23:27:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journey Through Cancer: Insights from Prof Mererid Evans and Rhod Gilbert</title>
+      <link>http://localhost:1313/post/56fce03a-de7c-11ee-a7f1-7440bb76babf/</link>
+      <pubDate>Fri, 15 Mar 2024 23:27:36 +0000</pubDate>
+      <guid>http://localhost:1313/post/56fce03a-de7c-11ee-a7f1-7440bb76babf/</guid>
+      <description>Understanding Cancer Treatment: Insights from Prof Mererid Evans and Rhod Gilbert&amp;rsquo;s Journey Both patients and medical professionals frequently express agreement that cancer treatment is harsh. Renowned oncologist Prof. Mererid Evans of Cardiff&amp;rsquo;s Velindre Cancer Centre discusses the difficulties and developments in cancer treatment via her work and the experiences of her well-known patient, Welsh comedian Rhod Gilbert.&#xA;A Journey Through the Treatment of Cancer Rhod Gilbert&amp;rsquo;s experience with tonsil, throat, tongue, and neck cancer raised awareness of the difficult realities of cancer treatment.</description>
+    </item>
+  </channel>
+</rss>
