@@ -3,9 +3,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/tags/africa/</loc>
+      <loc>http://localhost:1313/tags/bbc/</loc>
       
-        <lastmod>2024-03-20T19:24:29+00:00</lastmod>
+        <lastmod>2024-03-23T15:31:58+00:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -13,9 +13,19 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/tags/bbc/</loc>
+      <loc>http://localhost:1313/post/a9168f8e-e92f-11ee-9bbe-7440bb76babf/</loc>
       
-        <lastmod>2024-03-20T19:24:29+00:00</lastmod>
+        <lastmod>2024-03-23T15:31:58+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/cancer/</loc>
+      
+        <lastmod>2024-03-23T15:31:58+00:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -25,7 +35,7 @@
     <url>
       <loc>http://localhost:1313/categories/</loc>
       
-        <lastmod>2024-03-20T19:24:29+00:00</lastmod>
+        <lastmod>2024-03-23T15:31:58+00:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -35,7 +45,707 @@
     <url>
       <loc>http://localhost:1313/</loc>
       
-        <lastmod>2024-03-20T19:24:29+00:00</lastmod>
+        <lastmod>2024-03-23T15:31:58+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/politics/</loc>
+      
+        <lastmod>2024-03-23T15:31:58+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/</loc>
+      
+        <lastmod>2024-03-23T15:31:58+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/</loc>
+      
+        <lastmod>2024-03-23T15:31:58+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/us/</loc>
+      
+        <lastmod>2024-03-23T15:31:58+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/7cbeb2ee-e93a-11ee-8e3c-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T14:43:43+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/uk/</loc>
+      
+        <lastmod>2024-03-23T14:43:43+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/world/</loc>
+      
+        <lastmod>2024-03-23T14:43:43+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/gaza/</loc>
+      
+        <lastmod>2024-03-23T14:38:43+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/israel/</loc>
+      
+        <lastmod>2024-03-23T14:38:43+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/9f3e683a-e932-11ee-8f31-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T14:38:43+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/24b1cc1c-e935-11ee-8eb4-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T14:28:44+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/putin/</loc>
+      
+        <lastmod>2024-03-23T14:28:44+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/russia/</loc>
+      
+        <lastmod>2024-03-23T14:28:44+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/ukraine/</loc>
+      
+        <lastmod>2024-03-23T14:28:44+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/entertainment/</loc>
+      
+        <lastmod>2024-03-23T13:27:36+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/9da0ab50-e92d-11ee-91e4-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T13:27:36+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/85c3d3c8-e92c-11ee-8e97-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T12:42:03+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/2be828e8-e92e-11ee-a363-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T11:53:50+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/scotland/</loc>
+      
+        <lastmod>2024-03-23T11:53:50+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/sports/</loc>
+      
+        <lastmod>2024-03-23T11:53:50+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/red-bull/</loc>
+      
+        <lastmod>2024-03-23T08:32:50+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/446d8a70-e942-11ee-af62-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T08:32:50+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/6626ea82-e93b-11ee-847b-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T07:36:27+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/d316da58-e931-11ee-b362-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T07:11:23+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/india/</loc>
+      
+        <lastmod>2024-03-23T06:15:29+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/murder/</loc>
+      
+        <lastmod>2024-03-23T06:15:29+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/3b9bd72a-e939-11ee-8202-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T06:15:29+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/1dbf0070-e93d-11ee-835e-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T05:27:02+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/52ff79ec-e931-11ee-8571-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T03:25:56+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/china/</loc>
+      
+        <lastmod>2024-03-23T03:19:08+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/be7d94ce-e93b-11ee-8987-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T03:19:08+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/oil/</loc>
+      
+        <lastmod>2024-03-23T02:47:30+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/5549aa36-e938-11ee-9fbf-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T02:47:30+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/a006552c-e93f-11ee-9ba0-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T02:44:56+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/e0534710-e936-11ee-a294-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T02:44:56+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/11d25c6e-e93b-11ee-8002-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T02:35:44+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/d6ac3aa0-e92c-11ee-9385-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T00:39:57+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/f0260ed2-e933-11ee-960b-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T00:08:19+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/86f73c5c-e93c-11ee-92d0-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T00:03:17+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/africa/</loc>
+      
+        <lastmod>2024-03-23T00:03:17+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/38ce4002-e937-11ee-b0d3-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T00:03:17+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/b20ae44c-e938-11ee-89d2-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-23T00:03:17+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/science/</loc>
+      
+        <lastmod>2024-03-22T19:00:15+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/333f5aa0-e936-11ee-8a4f-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T19:00:15+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/2e085288-e884-11ee-993d-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T16:37:35+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/176deb02-e873-11ee-9c81-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T16:21:56+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/44d98486-e885-11ee-8bab-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T16:21:56+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/acfe1486-e87c-11ee-953f-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T16:12:01+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/technology/</loc>
+      
+        <lastmod>2024-03-22T16:12:01+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/3f3d3d5a-e87c-11ee-90cf-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T15:55:40+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/dfd6c5c0-e87b-11ee-b8db-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T15:50:08+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/831731a0-e883-11ee-86e2-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T15:47:04+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/6597a91c-e87d-11ee-bf9c-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T15:23:55+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/64527788-e875-11ee-9921-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T14:54:52+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/drug/</loc>
+      
+        <lastmod>2024-03-22T13:47:10+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/ff6d56d4-e884-11ee-be04-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T13:47:10+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/417be7ac-e876-11ee-bfb7-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T12:59:33+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/business/</loc>
+      
+        <lastmod>2024-03-22T12:31:05+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/8d838856-e873-11ee-8f50-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T12:31:05+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/fa766094-e875-11ee-b0e5-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T12:20:39+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/143f1d5e-e87b-11ee-af5d-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T11:53:00+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/51af3418-e848-11ee-b9ce-ed33906497a8/</loc>
+      
+        <lastmod>2024-03-22T11:00:02+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/a2e0ddc6-e886-11ee-866f-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T09:39:41+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/4bd845c2-e887-11ee-a6a1-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T08:31:47+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/d87244c8-e87e-11ee-8219-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T06:26:22+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/fe27ec46-e873-11ee-9568-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T06:04:43+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/e6ebbf80-e87d-11ee-847b-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-22T00:15:02+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/economy/</loc>
+      
+        <lastmod>2024-03-21T12:33:37+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/finance/</loc>
+      
+        <lastmod>2024-03-21T12:33:37+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/e7495566-e880-11ee-9cf3-7440bb76babf/</loc>
+      
+        <lastmod>2024-03-21T12:33:37+00:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -46,46 +756,6 @@
       <loc>http://localhost:1313/post/e07c6d40-e6f0-11ee-b585-7440bb76babf/</loc>
       
         <lastmod>2024-03-20T19:24:29+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/post/</loc>
-      
-        <lastmod>2024-03-20T19:24:29+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/tags/</loc>
-      
-        <lastmod>2024-03-20T19:24:29+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/categories/world/</loc>
-      
-        <lastmod>2024-03-20T19:24:29+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/tags/finance/</loc>
-      
-        <lastmod>2024-03-20T19:11:47+00:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -104,16 +774,6 @@
   
     <url>
       <loc>http://localhost:1313/post/3fb2b9fe-e6f1-11ee-84b8-7440bb76babf/</loc>
-      
-        <lastmod>2024-03-20T19:11:47+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/categories/politics/</loc>
       
         <lastmod>2024-03-20T19:11:47+00:00</lastmod>
       
@@ -143,16 +803,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/tags/business/</loc>
-      
-        <lastmod>2024-03-20T18:48:07+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
       <loc>http://localhost:1313/post/835978f4-e6f2-11ee-b54c-7440bb76babf/</loc>
       
         <lastmod>2024-03-20T18:48:07+00:00</lastmod>
@@ -174,16 +824,6 @@
   
     <url>
       <loc>http://localhost:1313/post/b873c60c-e6fc-11ee-a1ee-7440bb76babf/</loc>
-      
-        <lastmod>2024-03-20T18:24:37+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/categories/sports/</loc>
       
         <lastmod>2024-03-20T18:24:37+00:00</lastmod>
       
@@ -223,26 +863,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/categories/technology/</loc>
-      
-        <lastmod>2024-03-20T18:16:29+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/tags/russia/</loc>
-      
-        <lastmod>2024-03-20T18:12:11+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
       <loc>http://localhost:1313/post/f78a61b6-e6f7-11ee-b0ed-7440bb76babf/</loc>
       
         <lastmod>2024-03-20T18:12:11+00:00</lastmod>
@@ -263,16 +883,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/tags/scotland/</loc>
-      
-        <lastmod>2024-03-20T17:33:57+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
       <loc>http://localhost:1313/post/7763a334-e6f8-11ee-b7fb-7440bb76babf/</loc>
       
         <lastmod>2024-03-20T17:33:57+00:00</lastmod>
@@ -284,26 +894,6 @@
   
     <url>
       <loc>http://localhost:1313/post/87c4b750-e6f7-11ee-8ab5-7440bb76babf/</loc>
-      
-        <lastmod>2024-03-20T17:32:34+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/tags/gaza/</loc>
-      
-        <lastmod>2024-03-20T17:32:34+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/tags/israel/</loc>
       
         <lastmod>2024-03-20T17:32:34+00:00</lastmod>
       
@@ -383,16 +973,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/categories/entertainment/</loc>
-      
-        <lastmod>2024-03-20T15:48:40+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
       <loc>http://localhost:1313/post/fbc67586-e6f1-11ee-9d02-7440bb76babf/</loc>
       
         <lastmod>2024-03-20T15:48:40+00:00</lastmod>
@@ -413,9 +993,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/tags/india/</loc>
+      <loc>http://localhost:1313/post/1e009d84-e882-11ee-9d43-7440bb76babf/</loc>
       
-        <lastmod>2024-03-20T14:14:01+00:00</lastmod>
+        <lastmod>2024-03-20T14:23:08+00:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -444,26 +1024,6 @@
   
     <url>
       <loc>http://localhost:1313/post/b3f29028-e6f6-11ee-b805-7440bb76babf/</loc>
-      
-        <lastmod>2024-03-20T11:03:42+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/tags/oil/</loc>
-      
-        <lastmod>2024-03-20T11:03:42+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/categories/science/</loc>
       
         <lastmod>2024-03-20T11:03:42+00:00</lastmod>
       
@@ -503,9 +1063,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/post/a72a21bc-e5e8-11ee-83c8-7440bb76babf/</loc>
+      <loc>http://localhost:1313/post/2a722096-e883-11ee-93c8-7440bb76babf/</loc>
       
-        <lastmod>2024-03-19T11:42:34+00:00</lastmod>
+        <lastmod>2024-03-19T14:29:12+00:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -513,9 +1073,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/tags/china/</loc>
+      <loc>http://localhost:1313/post/a72a21bc-e5e8-11ee-83c8-7440bb76babf/</loc>
       
-        <lastmod>2024-03-19T11:40:14+00:00</lastmod>
+        <lastmod>2024-03-19T11:42:34+00:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -696,16 +1256,6 @@
       <loc>http://localhost:1313/post/4484074a-e5ec-11ee-911d-7440bb76babf/</loc>
       
         <lastmod>2024-03-19T01:06:08+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/tags/cancer/</loc>
-      
-        <lastmod>2024-03-19T00:59:31+00:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -1013,16 +1563,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:1313/tags/putin/</loc>
-      
-        <lastmod>2024-03-17T18:47:07+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
       <loc>http://localhost:1313/post/900399c0-e52d-11ee-909f-7440bb76babf/</loc>
       
         <lastmod>2024-03-17T18:47:07+00:00</lastmod>
@@ -1104,16 +1644,6 @@
   
     <url>
       <loc>http://localhost:1313/post/379bb48e-e46a-11ee-985b-7440bb76babf/</loc>
-      
-        <lastmod>2024-03-17T10:36:43+00:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:1313/tags/ukraine/</loc>
       
         <lastmod>2024-03-17T10:36:43+00:00</lastmod>
       
@@ -4166,6 +4696,16 @@
       <loc>http://localhost:1313/post/887554e4-dee5-11ee-b716-7440bb76babf/</loc>
       
         <lastmod>2024-01-30T00:29:20+00:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/post/9accd360-e881-11ee-94b2-7440bb76babf/</loc>
+      
+        <lastmod>2024-01-18T09:37:31+00:00</lastmod>
       
       
         <changefreq>daily</changefreq>

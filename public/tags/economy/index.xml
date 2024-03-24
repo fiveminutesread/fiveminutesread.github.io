@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economy on Five Minutes Reads</title>
+    <link>http://localhost:1313/tags/economy/</link>
+    <description>Recent content in Economy on Five Minutes Reads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Mar 2024 12:33:37 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/economy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How do interest rates affect me?</title>
+      <link>http://localhost:1313/post/e7495566-e880-11ee-9cf3-7440bb76babf/</link>
+      <pubDate>Thu, 21 Mar 2024 12:33:37 +0000</pubDate>
+      <guid>http://localhost:1313/post/e7495566-e880-11ee-9cf3-7440bb76babf/</guid>
+      <description>How do interest rates affect me? Interest rates set by the Bank of England affect mortgage, credit card and savings rates for millions of people across the UK. The base rate, currently 5. 25%, is what it charges other lenders to borrow money. It has a target to keep UK inflation at 2%.&#xA;The Bank may decide to raise rates to encourage people to spend less. The idea is that this helps to bring inflation down by dampening demand.</description>
+    </item>
+  </channel>
+</rss>

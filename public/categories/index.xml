@@ -6,48 +6,48 @@
     <description>Recent content in Categories on Five Minutes Reads</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Mar 2024 19:24:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 15:31:58 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>World</title>
-      <link>http://localhost:1313/categories/world/</link>
-      <pubDate>Wed, 20 Mar 2024 19:24:29 +0000</pubDate>
-      <guid>http://localhost:1313/categories/world/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Politics</title>
       <link>http://localhost:1313/categories/politics/</link>
-      <pubDate>Wed, 20 Mar 2024 19:11:47 +0000</pubDate>
+      <pubDate>Sat, 23 Mar 2024 15:31:58 +0000</pubDate>
       <guid>http://localhost:1313/categories/politics/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sports</title>
-      <link>http://localhost:1313/categories/sports/</link>
-      <pubDate>Wed, 20 Mar 2024 18:24:37 +0000</pubDate>
-      <guid>http://localhost:1313/categories/sports/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/categories/technology/</link>
-      <pubDate>Wed, 20 Mar 2024 18:16:29 +0000</pubDate>
-      <guid>http://localhost:1313/categories/technology/</guid>
+      <title>World</title>
+      <link>http://localhost:1313/categories/world/</link>
+      <pubDate>Sat, 23 Mar 2024 14:43:43 +0000</pubDate>
+      <guid>http://localhost:1313/categories/world/</guid>
       <description></description>
     </item>
     <item>
       <title>Entertainment</title>
       <link>http://localhost:1313/categories/entertainment/</link>
-      <pubDate>Wed, 20 Mar 2024 15:48:40 +0000</pubDate>
+      <pubDate>Sat, 23 Mar 2024 13:27:36 +0000</pubDate>
       <guid>http://localhost:1313/categories/entertainment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sports</title>
+      <link>http://localhost:1313/categories/sports/</link>
+      <pubDate>Sat, 23 Mar 2024 11:53:50 +0000</pubDate>
+      <guid>http://localhost:1313/categories/sports/</guid>
       <description></description>
     </item>
     <item>
       <title>Science</title>
       <link>http://localhost:1313/categories/science/</link>
-      <pubDate>Wed, 20 Mar 2024 11:03:42 +0000</pubDate>
+      <pubDate>Fri, 22 Mar 2024 19:00:15 +0000</pubDate>
       <guid>http://localhost:1313/categories/science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/categories/technology/</link>
+      <pubDate>Fri, 22 Mar 2024 16:12:01 +0000</pubDate>
+      <guid>http://localhost:1313/categories/technology/</guid>
       <description></description>
     </item>
     <item>
