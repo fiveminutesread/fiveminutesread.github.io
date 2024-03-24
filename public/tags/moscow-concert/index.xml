@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moscow Concert on Five Minutes Reads</title>
+    <link>http://localhost:1313/tags/moscow-concert/</link>
+    <description>Recent content in Moscow Concert on Five Minutes Reads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Mar 2024 10:18:39 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/moscow-concert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What we know about the attack on a Moscow concert hall</title>
+      <link>http://localhost:1313/post/08f41026-e9de-11ee-a8bb-7440bb76babf/</link>
+      <pubDate>Sun, 24 Mar 2024 10:18:39 +0000</pubDate>
+      <guid>http://localhost:1313/post/08f41026-e9de-11ee-a8bb-7440bb76babf/</guid>
+      <description>What we know about the attack on a Moscow concert hall More than 100 people were killed as gunmen stormed Crocus City Hall. The Islamic State group has said four of its members carried out the attack. Video showed at least four people shooting randomly before proceeding into the concert hall itself and opening fire there. A woman said she and other visitors rushed towards the stage as soon as they realised shots were being fired.</description>
+    </item>
+  </channel>
+</rss>

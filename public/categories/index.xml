@@ -6,41 +6,41 @@
     <description>Recent content in Categories on Five Minutes Reads</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Mar 2024 15:31:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 11:27:54 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Politics</title>
-      <link>http://localhost:1313/categories/politics/</link>
-      <pubDate>Sat, 23 Mar 2024 15:31:58 +0000</pubDate>
-      <guid>http://localhost:1313/categories/politics/</guid>
-      <description></description>
-    </item>
     <item>
       <title>World</title>
       <link>http://localhost:1313/categories/world/</link>
-      <pubDate>Sat, 23 Mar 2024 14:43:43 +0000</pubDate>
+      <pubDate>Sun, 24 Mar 2024 11:27:54 +0000</pubDate>
       <guid>http://localhost:1313/categories/world/</guid>
       <description></description>
     </item>
     <item>
-      <title>Entertainment</title>
-      <link>http://localhost:1313/categories/entertainment/</link>
-      <pubDate>Sat, 23 Mar 2024 13:27:36 +0000</pubDate>
-      <guid>http://localhost:1313/categories/entertainment/</guid>
+      <title>Politics</title>
+      <link>http://localhost:1313/categories/politics/</link>
+      <pubDate>Sun, 24 Mar 2024 10:37:38 +0000</pubDate>
+      <guid>http://localhost:1313/categories/politics/</guid>
       <description></description>
     </item>
     <item>
       <title>Sports</title>
       <link>http://localhost:1313/categories/sports/</link>
-      <pubDate>Sat, 23 Mar 2024 11:53:50 +0000</pubDate>
+      <pubDate>Sun, 24 Mar 2024 09:47:19 +0000</pubDate>
       <guid>http://localhost:1313/categories/sports/</guid>
       <description></description>
     </item>
     <item>
       <title>Science</title>
       <link>http://localhost:1313/categories/science/</link>
-      <pubDate>Fri, 22 Mar 2024 19:00:15 +0000</pubDate>
+      <pubDate>Sun, 24 Mar 2024 07:07:05 +0000</pubDate>
       <guid>http://localhost:1313/categories/science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entertainment</title>
+      <link>http://localhost:1313/categories/entertainment/</link>
+      <pubDate>Sun, 24 Mar 2024 00:24:32 +0000</pubDate>
+      <guid>http://localhost:1313/categories/entertainment/</guid>
       <description></description>
     </item>
     <item>
