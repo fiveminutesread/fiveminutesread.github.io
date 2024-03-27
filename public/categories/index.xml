@@ -6,48 +6,55 @@
     <description>Recent content in Categories on Five Minutes Reads</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2024 18:51:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 12:53:09 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Politics</title>
-      <link>http://localhost:1313/categories/politics/</link>
-      <pubDate>Tue, 26 Mar 2024 18:51:50 +0000</pubDate>
-      <guid>http://localhost:1313/categories/politics/</guid>
-      <description></description>
-    </item>
     <item>
       <title>World</title>
       <link>http://localhost:1313/categories/world/</link>
-      <pubDate>Tue, 26 Mar 2024 18:40:53 +0000</pubDate>
+      <pubDate>Wed, 27 Mar 2024 12:53:09 +0000</pubDate>
       <guid>http://localhost:1313/categories/world/</guid>
       <description></description>
     </item>
     <item>
       <title>Sports</title>
       <link>http://localhost:1313/categories/sports/</link>
-      <pubDate>Tue, 26 Mar 2024 17:19:12 +0000</pubDate>
+      <pubDate>Wed, 27 Mar 2024 12:26:03 +0000</pubDate>
       <guid>http://localhost:1313/categories/sports/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Science</title>
-      <link>http://localhost:1313/categories/science/</link>
-      <pubDate>Tue, 26 Mar 2024 15:17:44 +0000</pubDate>
-      <guid>http://localhost:1313/categories/science/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
       <link>http://localhost:1313/categories/technology/</link>
-      <pubDate>Tue, 26 Mar 2024 15:12:57 +0000</pubDate>
+      <pubDate>Wed, 27 Mar 2024 12:09:40 +0000</pubDate>
       <guid>http://localhost:1313/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politics</title>
+      <link>http://localhost:1313/categories/politics/</link>
+      <pubDate>Wed, 27 Mar 2024 11:54:51 +0000</pubDate>
+      <guid>http://localhost:1313/categories/politics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Science</title>
+      <link>http://localhost:1313/categories/science/</link>
+      <pubDate>Wed, 27 Mar 2024 11:06:55 +0000</pubDate>
+      <guid>http://localhost:1313/categories/science/</guid>
       <description></description>
     </item>
     <item>
       <title>Entertainment</title>
       <link>http://localhost:1313/categories/entertainment/</link>
-      <pubDate>Mon, 25 Mar 2024 09:40:44 +0000</pubDate>
+      <pubDate>Wed, 27 Mar 2024 11:06:32 +0000</pubDate>
       <guid>http://localhost:1313/categories/entertainment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automobile</title>
+      <link>http://localhost:1313/categories/automobile/</link>
+      <pubDate>Wed, 27 Mar 2024 00:01:30 +0000</pubDate>
+      <guid>http://localhost:1313/categories/automobile/</guid>
       <description></description>
     </item>
     <item>
@@ -55,13 +62,6 @@
       <link>http://localhost:1313/categories/health/</link>
       <pubDate>Fri, 15 Mar 2024 23:27:36 +0000</pubDate>
       <guid>http://localhost:1313/categories/health/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automobile</title>
-      <link>http://localhost:1313/categories/automobile/</link>
-      <pubDate>Fri, 15 Mar 2024 12:44:54 +0000</pubDate>
-      <guid>http://localhost:1313/categories/automobile/</guid>
       <description></description>
     </item>
   </channel>
