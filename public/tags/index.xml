@@ -6,48 +6,174 @@
     <description>Recent content in Tags on Five Minutes Reads</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2024 11:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 18:51:50 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BBC</title>
       <link>http://localhost:1313/tags/bbc/</link>
-      <pubDate>Mon, 25 Mar 2024 11:00:19 +0000</pubDate>
+      <pubDate>Tue, 26 Mar 2024 18:51:50 +0000</pubDate>
       <guid>http://localhost:1313/tags/bbc/</guid>
       <description></description>
     </item>
     <item>
-      <title>Scotland</title>
-      <link>http://localhost:1313/tags/scotland/</link>
-      <pubDate>Mon, 25 Mar 2024 11:00:19 +0000</pubDate>
-      <guid>http://localhost:1313/tags/scotland/</guid>
+      <title>Scandal</title>
+      <link>http://localhost:1313/tags/scandal/</link>
+      <pubDate>Tue, 26 Mar 2024 18:51:50 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scandal/</guid>
       <description></description>
     </item>
     <item>
       <title>Us</title>
       <link>http://localhost:1313/tags/us/</link>
-      <pubDate>Mon, 25 Mar 2024 11:00:19 +0000</pubDate>
+      <pubDate>Tue, 26 Mar 2024 18:51:50 +0000</pubDate>
       <guid>http://localhost:1313/tags/us/</guid>
       <description></description>
     </item>
     <item>
-      <title>Russia</title>
-      <link>http://localhost:1313/tags/russia/</link>
-      <pubDate>Mon, 25 Mar 2024 10:44:31 +0000</pubDate>
-      <guid>http://localhost:1313/tags/russia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>China</title>
-      <link>http://localhost:1313/tags/china/</link>
-      <pubDate>Mon, 25 Mar 2024 10:37:09 +0000</pubDate>
-      <guid>http://localhost:1313/tags/china/</guid>
+      <title>Taliban</title>
+      <link>http://localhost:1313/tags/taliban/</link>
+      <pubDate>Tue, 26 Mar 2024 18:36:10 +0000</pubDate>
+      <guid>http://localhost:1313/tags/taliban/</guid>
       <description></description>
     </item>
     <item>
       <title>Uk</title>
       <link>http://localhost:1313/tags/uk/</link>
-      <pubDate>Mon, 25 Mar 2024 10:37:09 +0000</pubDate>
+      <pubDate>Tue, 26 Mar 2024 18:36:10 +0000</pubDate>
       <guid>http://localhost:1313/tags/uk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Korea</title>
+      <link>http://localhost:1313/tags/korea/</link>
+      <pubDate>Tue, 26 Mar 2024 17:47:50 +0000</pubDate>
+      <guid>http://localhost:1313/tags/korea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eu</title>
+      <link>http://localhost:1313/tags/eu/</link>
+      <pubDate>Tue, 26 Mar 2024 17:19:12 +0000</pubDate>
+      <guid>http://localhost:1313/tags/eu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Africa</title>
+      <link>http://localhost:1313/tags/africa/</link>
+      <pubDate>Tue, 26 Mar 2024 17:03:27 +0000</pubDate>
+      <guid>http://localhost:1313/tags/africa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Red Bull</title>
+      <link>http://localhost:1313/tags/red-bull/</link>
+      <pubDate>Tue, 26 Mar 2024 17:03:27 +0000</pubDate>
+      <guid>http://localhost:1313/tags/red-bull/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drug</title>
+      <link>http://localhost:1313/tags/drug/</link>
+      <pubDate>Tue, 26 Mar 2024 16:56:23 +0000</pubDate>
+      <guid>http://localhost:1313/tags/drug/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>China</title>
+      <link>http://localhost:1313/tags/china/</link>
+      <pubDate>Tue, 26 Mar 2024 15:37:50 +0000</pubDate>
+      <guid>http://localhost:1313/tags/china/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>http://localhost:1313/tags/business/</link>
+      <pubDate>Tue, 26 Mar 2024 15:17:44 +0000</pubDate>
+      <guid>http://localhost:1313/tags/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Russia</title>
+      <link>http://localhost:1313/tags/russia/</link>
+      <pubDate>Tue, 26 Mar 2024 15:12:57 +0000</pubDate>
+      <guid>http://localhost:1313/tags/russia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ukraine</title>
+      <link>http://localhost:1313/tags/ukraine/</link>
+      <pubDate>Tue, 26 Mar 2024 15:12:57 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ukraine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rape</title>
+      <link>http://localhost:1313/tags/rape/</link>
+      <pubDate>Tue, 26 Mar 2024 15:11:24 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rape/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oil</title>
+      <link>http://localhost:1313/tags/oil/</link>
+      <pubDate>Tue, 26 Mar 2024 15:09:30 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Olympic</title>
+      <link>http://localhost:1313/tags/olympic/</link>
+      <pubDate>Tue, 26 Mar 2024 15:09:30 +0000</pubDate>
+      <guid>http://localhost:1313/tags/olympic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Putin</title>
+      <link>http://localhost:1313/tags/putin/</link>
+      <pubDate>Tue, 26 Mar 2024 15:09:30 +0000</pubDate>
+      <guid>http://localhost:1313/tags/putin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Economy</title>
+      <link>http://localhost:1313/tags/economy/</link>
+      <pubDate>Tue, 26 Mar 2024 14:46:19 +0000</pubDate>
+      <guid>http://localhost:1313/tags/economy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gaza</title>
+      <link>http://localhost:1313/tags/gaza/</link>
+      <pubDate>Tue, 26 Mar 2024 14:10:27 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gaza/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Israel</title>
+      <link>http://localhost:1313/tags/israel/</link>
+      <pubDate>Tue, 26 Mar 2024 14:10:27 +0000</pubDate>
+      <guid>http://localhost:1313/tags/israel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cancer</title>
+      <link>http://localhost:1313/tags/cancer/</link>
+      <pubDate>Tue, 26 Mar 2024 13:50:42 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cancer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trump</title>
+      <link>http://localhost:1313/tags/trump/</link>
+      <pubDate>Tue, 26 Mar 2024 00:15:42 +0000</pubDate>
+      <guid>http://localhost:1313/tags/trump/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scotland</title>
+      <link>http://localhost:1313/tags/scotland/</link>
+      <pubDate>Mon, 25 Mar 2024 12:07:55 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scotland/</guid>
       <description></description>
     </item>
     <item>
@@ -55,13 +181,6 @@
       <link>http://localhost:1313/tags/oscar/</link>
       <pubDate>Mon, 25 Mar 2024 09:40:44 +0000</pubDate>
       <guid>http://localhost:1313/tags/oscar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cancer</title>
-      <link>http://localhost:1313/tags/cancer/</link>
-      <pubDate>Mon, 25 Mar 2024 07:45:09 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cancer/</guid>
       <description></description>
     </item>
     <item>
@@ -76,13 +195,6 @@
       <link>http://localhost:1313/tags/hong-kong/</link>
       <pubDate>Mon, 25 Mar 2024 06:01:36 +0000</pubDate>
       <guid>http://localhost:1313/tags/hong-kong/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ukraine</title>
-      <link>http://localhost:1313/tags/ukraine/</link>
-      <pubDate>Mon, 25 Mar 2024 06:01:36 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ukraine/</guid>
       <description></description>
     </item>
     <item>
@@ -107,66 +219,10 @@
       <description></description>
     </item>
     <item>
-      <title>Putin</title>
-      <link>http://localhost:1313/tags/putin/</link>
-      <pubDate>Mon, 25 Mar 2024 02:36:47 +0000</pubDate>
-      <guid>http://localhost:1313/tags/putin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>http://localhost:1313/tags/business/</link>
-      <pubDate>Mon, 25 Mar 2024 00:22:34 +0000</pubDate>
-      <guid>http://localhost:1313/tags/business/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Economy</title>
-      <link>http://localhost:1313/tags/economy/</link>
-      <pubDate>Mon, 25 Mar 2024 00:22:34 +0000</pubDate>
-      <guid>http://localhost:1313/tags/economy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gaza</title>
-      <link>http://localhost:1313/tags/gaza/</link>
-      <pubDate>Sun, 24 Mar 2024 23:26:37 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gaza/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Israel</title>
-      <link>http://localhost:1313/tags/israel/</link>
-      <pubDate>Sun, 24 Mar 2024 23:26:37 +0000</pubDate>
-      <guid>http://localhost:1313/tags/israel/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Murder</title>
       <link>http://localhost:1313/tags/murder/</link>
       <pubDate>Sun, 24 Mar 2024 21:31:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/murder/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Red Bull</title>
-      <link>http://localhost:1313/tags/red-bull/</link>
-      <pubDate>Sun, 24 Mar 2024 08:02:03 +0000</pubDate>
-      <guid>http://localhost:1313/tags/red-bull/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oil</title>
-      <link>http://localhost:1313/tags/oil/</link>
-      <pubDate>Sun, 24 Mar 2024 07:54:53 +0000</pubDate>
-      <guid>http://localhost:1313/tags/oil/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rape</title>
-      <link>http://localhost:1313/tags/rape/</link>
-      <pubDate>Sun, 24 Mar 2024 00:46:27 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rape/</guid>
       <description></description>
     </item>
     <item>
@@ -177,27 +233,6 @@
       <description></description>
     </item>
     <item>
-      <title>Korea</title>
-      <link>http://localhost:1313/tags/korea/</link>
-      <pubDate>Sun, 24 Mar 2024 00:07:05 +0000</pubDate>
-      <guid>http://localhost:1313/tags/korea/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Africa</title>
-      <link>http://localhost:1313/tags/africa/</link>
-      <pubDate>Sat, 23 Mar 2024 00:03:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/africa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Drug</title>
-      <link>http://localhost:1313/tags/drug/</link>
-      <pubDate>Fri, 22 Mar 2024 13:47:10 +0000</pubDate>
-      <guid>http://localhost:1313/tags/drug/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Finance</title>
       <link>http://localhost:1313/tags/finance/</link>
       <pubDate>Thu, 21 Mar 2024 12:33:37 +0000</pubDate>
@@ -205,24 +240,10 @@
       <description></description>
     </item>
     <item>
-      <title>Trump</title>
-      <link>http://localhost:1313/tags/trump/</link>
-      <pubDate>Tue, 19 Mar 2024 00:05:59 +0000</pubDate>
-      <guid>http://localhost:1313/tags/trump/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ed Sheeran</title>
       <link>http://localhost:1313/tags/ed-sheeran/</link>
       <pubDate>Sun, 17 Mar 2024 10:50:28 +0000</pubDate>
       <guid>http://localhost:1313/tags/ed-sheeran/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scandal</title>
-      <link>http://localhost:1313/tags/scandal/</link>
-      <pubDate>Sun, 17 Mar 2024 02:11:20 +0000</pubDate>
-      <guid>http://localhost:1313/tags/scandal/</guid>
       <description></description>
     </item>
     <item>
